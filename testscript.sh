@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "this script is fro github"
-num = $(($one + $two))
-echo "$num"
+NUM = $(($ONE + $TWO))
+echo "$NUM"
